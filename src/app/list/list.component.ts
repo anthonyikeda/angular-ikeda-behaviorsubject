@@ -3,8 +3,8 @@ import { BehaviorSubject } from 'rxjs';
 
 @Component({
   selector: 'my-app',
-  templateUrl: './app.component.html',
-  styleUrls: [ './app.component.css' ]
+  templateUrl: './list.component.html',
+  styleUrls: [ './list.component.css' ]
 })
 export class ListComponent {
 
